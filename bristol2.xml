@@ -33,7 +33,11 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="30"></block>
+      <block type="movement_stop" id="30">
+        <next>
+          <block type="movement_stutter" id="196"></block>
+        </next>
+      </block>
     </next>
   </block>
 </xml>
