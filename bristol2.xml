@@ -1,7 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="procedures_ifreturn" id="107" inline="true" x="-250" y="168">
-    <mutation value="1"></mutation>
-  </block>
   <block type="controls_whileUntil" id="7" inline="false" x="580" y="231">
     <field name="MODE">UNTIL</field>
     <value name="NUMBER">
